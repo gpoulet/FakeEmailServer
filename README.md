@@ -1,7 +1,6 @@
 # Fake Email Server
 
-Language : Java 8
-Build : Maven 3
+Fake Email Server which use Java 8 and Maven 3
 
 ## Build
 
